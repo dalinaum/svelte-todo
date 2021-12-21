@@ -8,7 +8,7 @@
 의존성을 설치합니다.
 
 ```bash
-cd svelte-app
+cd svelte-todo
 npm install
 ```
 
